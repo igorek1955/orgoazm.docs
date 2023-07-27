@@ -1,9 +1,0 @@
-[{
-  "relation": ["delegate_permission/common.handle_all_urls"],
-  "target": {
-    "namespace": "orgoazm",
-    "package_name": "com.igor.orgoazm",
-    "sha256_cert_fingerprints":
-    ["27:EC:D7:75:51:49:C6:34:AD:26:07:82:B8:28:CF:74:B5:11:C0:1C:7E:84:76:66:9C:57:21:C8:EB:F7:B7:85"]
-  }
-}]
