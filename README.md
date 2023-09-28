@@ -1,1 +1,1 @@
-# Documentation for Orgoazm App
+# Documentation for WanderJunk App
