@@ -30,9 +30,9 @@ Straightforward listings application for travelers without any bloat.
 - **Android Support Libraries**
 
 ## Screenshots
-|               Main Screen               |                  Listing Screen                  |
-|:---------------------------------------:|:------------------------------------------------:|
-| ![Main](/images/main-anim.gif?raw=true) | <img src="/images/listing-min.png" height="860"> |
+|               Main Screen               |                 Listing Screen                  |
+|:---------------------------------------:|:-----------------------------------------------:|
+| ![Main](/images/main-anim.gif?raw=true) | <img src="/images/listing-min.png" width="412"> |
 
 |              Chat Screen               |                Settings Screen                 |
 |:--------------------------------------:|:----------------------------------------------:|
