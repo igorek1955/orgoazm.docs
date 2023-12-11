@@ -32,7 +32,7 @@ Straightforward listings application for travelers without any bloat.
 ## Screenshots
 |               Main Screen               |                    Listing Screen                    |
 |:---------------------------------------:|:----------------------------------------------------:|
-| ![Main](/images/main-anim.gif?raw=true) | ![Listing](/images/listing-min.png?raw=true=412x860) |
+| ![Main](/images/main-anim.gif?raw=true) | ![Listing](/images/listing-min.png) |
 
 |              Chat Screen               |                Settings Screen                 |
 |:--------------------------------------:|:----------------------------------------------:|
