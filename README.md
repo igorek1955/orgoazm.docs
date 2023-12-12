@@ -3,7 +3,7 @@
 
 Straightforward listings application for travelers without any bloat.
 
-[<img src="https://help.rustore.ru/pic/e/d/edc2a045e17e4971c7cca77c7fde4b66.png"
+[<img src="/images/rustore.svg"
 alt="Download from RuStore"
 height="80">](https://apps.rustore.ru/app/com.jarlingvar.wanderjunk)
 ---
